@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there! Rafael Fernandes here!
 🔭 I’m currently working on Networking (Switching & Routing)<br> 🌱 I’m currently studying Infrastructure (Networking, Cloud, DevOps, etc) <br>
 
 ## 🌐 Socials:
